@@ -1,0 +1,11 @@
+C:\repos\ConsoleApp1Homework\ConsoleApp1Homework\bin\Debug\netcoreapp3.1\ConsoleApp1Homework.exe
+C:\repos\ConsoleApp1Homework\ConsoleApp1Homework\bin\Debug\netcoreapp3.1\ConsoleApp1Homework.deps.json
+C:\repos\ConsoleApp1Homework\ConsoleApp1Homework\bin\Debug\netcoreapp3.1\ConsoleApp1Homework.runtimeconfig.json
+C:\repos\ConsoleApp1Homework\ConsoleApp1Homework\bin\Debug\netcoreapp3.1\ConsoleApp1Homework.runtimeconfig.dev.json
+C:\repos\ConsoleApp1Homework\ConsoleApp1Homework\bin\Debug\netcoreapp3.1\ConsoleApp1Homework.dll
+C:\repos\ConsoleApp1Homework\ConsoleApp1Homework\bin\Debug\netcoreapp3.1\ConsoleApp1Homework.pdb
+C:\repos\ConsoleApp1Homework\ConsoleApp1Homework\obj\Debug\netcoreapp3.1\ConsoleApp1Homework.csprojAssemblyReference.cache
+C:\repos\ConsoleApp1Homework\ConsoleApp1Homework\obj\Debug\netcoreapp3.1\ConsoleApp1Homework.AssemblyInfoInputs.cache
+C:\repos\ConsoleApp1Homework\ConsoleApp1Homework\obj\Debug\netcoreapp3.1\ConsoleApp1Homework.AssemblyInfo.cs
+C:\repos\ConsoleApp1Homework\ConsoleApp1Homework\obj\Debug\netcoreapp3.1\ConsoleApp1Homework.dll
+C:\repos\ConsoleApp1Homework\ConsoleApp1Homework\obj\Debug\netcoreapp3.1\ConsoleApp1Homework.pdb
